@@ -6,9 +6,13 @@ Here is an example of a data input file (this is the graph):
 ![alt text](https://github.com/JaimeGoB/LinkedIn-Graph/blob/master/graph.png)
 4
 Bob Smith|Sally Simpson
+
 Sally Simpson|Daniel Davidson
+
 Sally Simpson|Susan Jackson
+
 Susan Jackson|Daniel Davidson
+
 
 The first line of the file will contain an integer indicating how many rows of data will
 be in the file. Each subsequent row will contain two individual’s names separated
@@ -18,8 +22,11 @@ Requested Distance Data File
 
 3
 Bob Smith|Daniel Davidson
+
 Sally Simpson|Daniel Davidson
+
 Bob Smith|Bob Smith
+
 Output File
 
 A sample input file for requested minimum connection distance is shown below. .
