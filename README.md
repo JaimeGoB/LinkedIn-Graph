@@ -4,6 +4,7 @@ This algorithm to determine the shortest path in graph using an exhaustive itera
 
 Here is an example of a data input file (this is the graph):
 ![alt text](https://github.com/JaimeGoB/LinkedIn-Graph/blob/master/graph.png)
+
 4
 Bob Smith|Sally Simpson
 
