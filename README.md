@@ -6,6 +6,7 @@ Here is an example of a data input file (this is the graph):
 ![alt text](https://github.com/JaimeGoB/LinkedIn-Graph/blob/master/graph.png)
 
 4
+
 Bob Smith|Sally Simpson
 
 Sally Simpson|Daniel Davidson
